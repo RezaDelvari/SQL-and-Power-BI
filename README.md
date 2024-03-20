@@ -1,3 +1,8 @@
+# POWER BI DASHBOARD
+![alt text](https://github.com/RezaDelvari/SQLandPowerBI/blob/main/Hotel%20Revenue.jpg "Logo Title Text 1")
+
+
+
 # Hotel Revenue and Guest Trends Analysis
 
 This project aims to analyze hotel revenue trends over the years, explore the necessity of increasing parking lot sizes, and identify notable data trends using Power BI.
@@ -72,4 +77,5 @@ ON hotel_revenue_historical_meal_cost.meal = hotels.meal;
    - Parking percentage shows a steady trend, suggesting no immediate need to increase parking lot sizes.
 3. **Seasonal Revenue Trends:**
    - Notable increase in revenue during summers across the analyzed years.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
